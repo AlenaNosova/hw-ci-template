@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "ci-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -38,5 +38,13 @@
     "core-js": "^3.27.2",
     "fsevents": "^2.3.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaNosova/hw-ci-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlenaNosova/hw-ci-template/issues"
+  },
+  "homepage": "https://github.com/AlenaNosova/hw-ci-template#readme",
   "description": ""
 }
